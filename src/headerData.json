@@ -1,0 +1,25 @@
+{
+  "navbar": [
+    {
+      "text": "Home Applicances",
+      "url": "homeappli",
+      "submenu": [
+        {
+          "submenuText": "Television",
+          "url": ""
+        },
+        {
+          "submenuText": "Fridge",
+          "url": ""
+        },
+        {
+          "submenuText": "Washing Machine",
+          "url": ""
+        }
+      ]
+    },
+    { "text": "Mobiles & Accessories", "url": "mobile" },
+    { "text": "Discount Combos", "url": "disc" },
+    { "text": "Offers", "url": "offers" }
+  ]
+}
